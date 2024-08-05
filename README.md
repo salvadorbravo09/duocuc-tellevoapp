@@ -25,8 +25,8 @@ Sigue estos pasos para configurar el proyecto localmente:
 
 1. **Clona el repositorio:**
     ```sh
-    git clone https://github.com/alejandrobravo09/duocuc-programacion-movil-ionic.git
-    cd duocuc-programacion-movil-ionic
+    git clone https://github.com/salvadorbravo09/duocuc-tellevoapp.git
+    cd duocuc-tellevoapp
     ```
 
 2. **Instala las dependencias:**
