@@ -17,7 +17,7 @@ TellevoApp es una aplicación móvil desarrollada con Ionic para la asignatura "
 - Node.js
 - Ionic CLI
 - Firebase account
-- Actualmente no tiene acceso al backend de Firebase
+- ```Actualmente no tiene acceso al backend de Firebase```
 
 ## Instalación
 
